@@ -35,7 +35,7 @@
 			<ipcatalogsearch_mysql4>
 				<entities>
 					<fulltext>
-						<table>improved_catalogsearch_fulltext</table>
+						<table>ipcatalogsearch_fulltext</table>
 					</fulltext>
 				</entities>
 			</ipcatalogsearch_mysql4>

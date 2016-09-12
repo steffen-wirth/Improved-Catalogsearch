@@ -1,0 +1,9 @@
+{
+  "name": "ambimax/magento-module-improved-catalogsearch",
+  "type": "magento-module",
+  "description": "Improves default catalogsearch of magento",
+  "homepage": "http://www.ambimax.de",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
