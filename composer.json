@@ -1,5 +1,5 @@
 {
-  "name": "ambimax/magento-module-improved-catalogsearch",
+  "name": "tschifftner/magento-module-improved-catalogsearch",
   "type": "magento-module",
   "description": "Improves default catalogsearch of magento",
   "homepage": "http://www.ambimax.de",
